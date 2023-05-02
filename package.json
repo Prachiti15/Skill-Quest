@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Game to test soft skills of user",
   "scripts": {
-    "nbuild" : "npm i npm run start"
+    "nbuild" : "npm i npm run start",
     "server": "nodemon server.js",
     "start": "npm run css:build && nodemon server.js",
     "serve": "run-p css:watch html:serve",
