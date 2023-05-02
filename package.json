@@ -1,0 +1,57 @@
+{
+  "name": "skill-quest",
+  "version": "0.0.1",
+  "description": "Game to test soft skills of user",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "npm run css:build && nodemon server.js",
+    "serve": "run-p css:watch html:serve",
+    "prod": "run-s css:build",
+    "css:watch": "tailwindcss -i src/tailwind.css -o public/build/css/tailwind.css -w",
+    "css:build": "tailwindcss -i src/tailwind.css -o public/build/css/tailwind.css -m",
+    "html:serve": "live-server ./public",
+    "predeploy": "run-s css:build",
+    "deploy": "gh-pages -d public"
+  },
+  "keywords": [
+    "dashboard",
+    "tailwindcss",
+    "layout",
+    "alpinejs",
+    "admin",
+    "template"
+  ],
+  "author": {
+    "name": "Prachiti Akre"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "gh-pages": "^3.2.3",
+    "jsonwebtoken": "^9.0.0",
+    "live-server": "^1.2.1",
+    "mongodb": "^4.12.0",
+    "mongoose": "^6.7.2",
+    "npm-run-all": "^4.1.5",
+    "passport": "^0.6.0",
+    "path": "^0.12.7",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 120
+  }
+}
