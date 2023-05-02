@@ -6,6 +6,7 @@
 ###  Features
 ###  Soft Skills
 ###  Puzzles and Solutions
+### Technology
 
 ## Introduction
 Skill Quest is designed to help one hone their soft skills and put them to the test in a fun and interactive way. There’s a set of games specifically crafted to assess one’s abilities in various areas, including Awareness, Logical Reasoning, Problem Solving, Observation, Reading and accuracy tests. Each game offers a unique challenge that will push you to think outside the box and showcase your skills in action.
@@ -89,3 +90,13 @@ Here the name of animals and the picture are just to distract the user.
 Puzzle: The user needs to play a game of AIM TRAINING for 15 seconds.
 
 Solution: Try to aim most of the balls.
+
+## Technology
+      [Tailwind CSS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwip5fX03df-AhUcoGMGHSs7BngQFnoECBEQAQ&url=https%3A%2F%2Ftailwindcss.com%2F&usg=AOvVaw2vSN7AVcVeE7IjW449Pt1C)
+     
+     [MongoDB](https://www.mongodb.com/)
+     
+     [Node.js](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjcyJ2P3tf-AhUq8DgGHSrAD2EQFnoECBAQAQ&url=https%3A%2F%2Fnodejs.org%2F&usg=AOvVaw1tY2p-vJFWJmxWlq4sTxCn)
+     
+     [Express.js](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjgguWd3tf-AhXN8zgGHfxXDvoQFnoECBAQAQ&url=https%3A%2F%2Fexpressjs.com%2F&usg=AOvVaw2dzc6U9bu173R4s1d9BYhT)
+     
