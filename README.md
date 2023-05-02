@@ -91,12 +91,8 @@ Puzzle: The user needs to play a game of AIM TRAINING for 15 seconds.
 
 Solution: Try to aim most of the balls.
 
-## Technology
-      [Tailwind CSS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwip5fX03df-AhUcoGMGHSs7BngQFnoECBEQAQ&url=https%3A%2F%2Ftailwindcss.com%2F&usg=AOvVaw2vSN7AVcVeE7IjW449Pt1C)
-     
-     [MongoDB](https://www.mongodb.com/)
-     
-     [Node.js](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjcyJ2P3tf-AhUq8DgGHSrAD2EQFnoECBAQAQ&url=https%3A%2F%2Fnodejs.org%2F&usg=AOvVaw1tY2p-vJFWJmxWlq4sTxCn)
-     
-     [Express.js](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjgguWd3tf-AhXN8zgGHfxXDvoQFnoECBAQAQ&url=https%3A%2F%2Fexpressjs.com%2F&usg=AOvVaw2dzc6U9bu173R4s1d9BYhT)
-     
+## Technology 
+      Tailwind CSS
+      MongoDB   
+      Node.js   
+      Express.js
